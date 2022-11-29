@@ -4,6 +4,8 @@
 - 📫 You can reach me by email: taha.belkhiri@etu.uca.fr
 - 🌐 Or you can check out my website here: https://perso.isima.fr/~tabelkhiri/
 
+[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=belkhiritaha)](https://github.com/belkhiritaha/github-readme-stats)
+
 <!---
 belkhiritaha/belkhiritaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
