@@ -1,5 +1,6 @@
 <div class="container" align="center">
-	<h1>Taha Belkhiri</h1>
+	<img src="title.svg" width="800" height="400">
+	<h1>About me</h1>
 	<img src="header.svg" width="800" height="400">
 
 	<li>👋 Hi, I’m @belkhiritaha
