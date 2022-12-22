@@ -1,6 +1,7 @@
 <div class="container">
     <h1>Taha Belkhiri</h1>
-    <p>Welcome to my github profile!</p>
+	<img src="header.svg" width="800" height="400">
+
     <ul>
         <li>👋 Hi, I’m @belkhiritaha
         <li>👀 I’m interested in cybersecurity and web development
