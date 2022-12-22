@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container" align="center">
     <h1>Taha Belkhiri</h1>
 	<img src="header.svg" width="800" height="400">
 
