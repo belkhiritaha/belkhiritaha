@@ -76,10 +76,21 @@
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
-			<div class="container">
-				<h1>WELCOME TO MY<br/>GITHUB PROFILE</h1>
-				<p>Click to see the source</p>
-			</div>
+            <div class="container">
+                <h1>Taha Belkhiri</h1>
+                <p>Welcome to my github profile!</p>
+                <ul>
+                    <li>👋 Hi, I’m @belkhiritaha
+                    <li>👀 I’m interested in cybersecurity and web development
+                    <li>🌱 I’m currently enrolled in a Networks and Cybersecurity Engineering Degree
+                    <li>📫 How to reach me:
+                    <ul>
+                        <li>📧 Email: taha.belkhiri@etu.uca.fr
+                        <li>📱 Discord: Sorry Im Blind#0369
+                    </ul>
+                    <li>🌐 Website: perso.isima.fr/~tabelkhiri
+                </ul>
+            </div>
 		</div>
 	</foreignObject>
 </svg>
